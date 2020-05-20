@@ -1,0 +1,380 @@
+body{
+    background-color: #f1f2f3e8;
+    color: #707070;
+}
+
+.logo {
+    padding: 10px;
+    text-align: center;
+}
+
+.miniNavIndex a, .miniNavIndex a:hover, .mainNavIndex li a, .mainNavIndex li a:hover {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 35px;
+    color: white;
+}  
+
+.miniNav, .miniNav a, .miniNavIndex {
+    text-align: right;
+    padding: 35px;
+    font-size: 20px;
+}
+
+.mainNav {
+    padding-bottom: 60px;
+}
+
+.miniNav a, .miniNav a:hover  {
+    color: #707070;
+}
+ 
+.mainNav ul, .mainNavIndex ul {
+    list-style: none;
+    text-align: center;
+}
+
+.mainNav li, .mainNavIndex li {
+    padding: 0 12px;
+    display: inline;
+}
+
+.mainNav li a, .mainNav li a:hover {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 35px;
+    color:#707070;
+}
+
+.greeting h1 {
+    text-align: center;
+    padding-top: 120px;
+    text-transform: none;
+    font-size: 20px;
+    color: white;
+}
+
+.videocover {
+    position: absolute;
+
+}
+
+.wavesWrapper{
+    padding: 80px;
+    background-color: white;
+}
+
+.greetingTwo {
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.greetingTwo h2 {
+    text-transform: uppercase;
+    font-size: 25px;
+    color: black;
+    font-style: italic;
+}
+
+.greetingTwo p {
+    color: black;
+    font-size: 20px;
+}
+
+.headerWrapper {
+    padding-bottom: 375px;
+}
+
+.rseriesBlurb, .rseriesBlurb2 {
+    padding: 100px;
+    background-color: #cdd8d3;
+}
+
+.rseriesBlurb h2, .rseriesBlurb2 h2 {
+    text-transform: uppercase;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.price {
+    color: #cc9933;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.rseriesBlurb p, .rseriesBlurb2 p {
+    font-size: 18px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.boardModel, .boardColor, .rseriesAddToCart {
+    width: 300px;
+    height: 35px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.boardModelWrapper, .boardColorWrapper {
+    padding-bottom: 30px;
+}
+
+.rseriesAddToCart {
+    font-size: 12px;
+    padding: 8px;
+    color: white;
+    background-color: #cc9933;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 2px;
+}
+
+.inventoryLinks {
+    padding: 100px;
+}
+
+.inventoryLinks h2 {
+    padding-bottom: 80px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.videoCaption {
+    padding-bottom: 310px;
+    text-align: center;
+    color: white;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.videoCaption h2 {
+    
+    font-style: italic;
+}
+
+.fillWhite {
+    background: white;
+    padding: 30px;
+    width: 623px;
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.fillWhite h2 {
+    
+    font-style: italic;
+}
+
+.fillWhite h2 {
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.fillWhiteWrapper {
+    padding-left: 580px;
+    padding-top: 150px;
+
+}
+
+.videoTwoWrapper {
+    padding-bottom: 400px;
+    
+}
+
+.boardCirclePic {
+    width: 60%;
+    position:absolute;
+}
+
+.rseriesBlub2 {
+    background-color: #cdd8d3;
+    padding-top: 170px;
+    padding-bottom: 350px;
+}
+
+.instagramWrapper {
+    padding: 100px;
+    background-color: white;
+}
+
+.instagramLink a {
+    text-align: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: gray;
+    padding: 100px;
+}
+
+
+.footerWrapper {
+    padding: 80px;
+    background-color: #ebebeb;
+}
+
+.store ul, .global ul, .subscribe ul {
+    list-style: none;
+    padding-left: 0px;
+    line-height: 35px;
+}
+
+.global ul {
+    line-height: 25px;
+}
+
+.store h3, .global h3, .subscribe h3 {
+    text-transform: uppercase;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-style: bold;
+}
+
+.store li, .global li, .subscribe p {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+
+}
+
+.enterEmail {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.submitEmail {
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    background: #cc9933;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    padding: 3px;
+}
+
+.imgHeader{
+    position: absolute;
+}
+
+.rseriesHeaderWrapper {
+    padding-bottom: 20px;
+}
+
+.hero {
+    background: white;
+}
+
+.postHero {
+    padding-top: 150px;
+    padding-bottom: 60px;
+    background: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.heroBlurb {
+    padding-bottom: 100px;
+    font-weight: bolder;
+}
+
+.postHeroWithCircles {
+    margin-left: -192px;
+    
+}
+
+.circleList ul {
+    list-style: none;
+}
+
+.circleList  {
+    font-size: 20px;
+    font-style: none;
+    padding-top: 25px;
+}
+.circles {
+    border-radius: 50%;
+}
+
+.inBetween {
+    padding-bottom: 71px;
+}
+
+.inBetween p {
+    font-size: 17px;
+    font-style: unset;
+    padding-top: 40px;
+    font-family: sans-serif;
+}
+
+.usMade {
+    padding: 70px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    line-height: 32px;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.openingBlurbWrapper {
+    padding: 80px;
+    font-family: 'Arial Narrow', arial, sans-serif;
+    font-size: 20px;
+    color: rgb(68, 66, 66);
+    text-align: center;
+    background: white;
+    font-style: italic;
+}
+
+.boardTypeChips {
+    background: white;
+    text-align: center;
+    font-family: 'Arial Narrow', arial, sans-serif;
+    font-size: 14px;
+    padding-bottom: 150px;
+}
+.hero {
+    background: white;
+}
+.type {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.aboutUsHero {
+    background: white;
+    padding: 57px;
+}
+
+.aboutUsBlurb {
+    font-family: "Arial Narrow", arial, sans-serif;
+    font-size: 20px;
+    background: white;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 55px;
+}
+
+.aboutUsPicTwo {
+    padding-bottom: 65px;
+}
+
+.shopChips {
+    padding: 150px;
+}
